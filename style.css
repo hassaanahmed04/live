@@ -2,12 +2,39 @@ body{
     background-color: gray;
 }
 .circle {
-  width: 500px;
-  height: 500px;
-  line-height: 500px;
+  align-items: center;
+
+  width: 350px;
+  height: 350px;
+  line-height: 350px;
   border-radius: 50%;
   font-size: 50px;
   color: #fff;
   text-align: center;
   background: #000
 }
+.circle1 {
+  margin-left: 100;
+    width:250px;
+    height: 250px;
+    line-height: 250px;
+    border-radius: 50%;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+    background: #000
+  }
+  .circle2 {
+    width: 250px;
+    height: 250px;
+    line-height: 250px;
+    border-radius: 50%;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+    background: #000
+  }
+  .shaheer {
+     
+    color: #fff;
+  }
